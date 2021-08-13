@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/coffeshop/static/css/main.be14dee9.chunk.css",
+    "main.js": "/coffeshop/static/js/main.9e97e06b.chunk.js",
+    "main.js.map": "/coffeshop/static/js/main.9e97e06b.chunk.js.map",
+    "runtime-main.js": "/coffeshop/static/js/runtime-main.fed7a68e.js",
+    "runtime-main.js.map": "/coffeshop/static/js/runtime-main.fed7a68e.js.map",
+    "static/css/2.b2294130.chunk.css": "/coffeshop/static/css/2.b2294130.chunk.css",
+    "static/js/2.43ca3f4f.chunk.js": "/coffeshop/static/js/2.43ca3f4f.chunk.js",
+    "static/js/2.43ca3f4f.chunk.js.map": "/coffeshop/static/js/2.43ca3f4f.chunk.js.map",
+    "index.html": "/coffeshop/index.html",
+    "static/css/2.b2294130.chunk.css.map": "/coffeshop/static/css/2.b2294130.chunk.css.map",
+    "static/css/main.be14dee9.chunk.css.map": "/coffeshop/static/css/main.be14dee9.chunk.css.map",
+    "static/js/2.43ca3f4f.chunk.js.LICENSE.txt": "/coffeshop/static/js/2.43ca3f4f.chunk.js.LICENSE.txt",
+    "static/media/coffe-1.f9afeac9.png": "/coffeshop/static/media/coffe-1.f9afeac9.png",
+    "static/media/coffe-2.9ad094cc.png": "/coffeshop/static/media/coffe-2.9ad094cc.png",
+    "static/media/coffe-3.6e99e636.png": "/coffeshop/static/media/coffe-3.6e99e636.png",
+    "static/media/coffe-4.3eed311d.png": "/coffeshop/static/media/coffe-4.3eed311d.png",
+    "static/media/coffe-5.080e6018.png": "/coffeshop/static/media/coffe-5.080e6018.png",
+    "static/media/coffe-6.5181c4c7.png": "/coffeshop/static/media/coffe-6.5181c4c7.png",
+    "static/media/App.css": "/coffeshop/static/media/hero.c39d63be.jpeg",
+    "static/media/features8.6d02393b.jpg": "/coffeshop/static/media/features8.6d02393b.jpg",
+    "static/media/portfolio-1.657ec282.jpg": "/coffeshop/static/media/portfolio-1.657ec282.jpg",
+    "static/media/portfolio-2.5e9e4c4a.jpg": "/coffeshop/static/media/portfolio-2.5e9e4c4a.jpg",
+    "static/media/portfolio-3.595c7497.jpg": "/coffeshop/static/media/portfolio-3.595c7497.jpg",
+    "static/media/portfolio-4.2a1517ed.jpg": "/coffeshop/static/media/portfolio-4.2a1517ed.jpg",
+    "static/media/portfolio-5.9d657a76.jpg": "/coffeshop/static/media/portfolio-5.9d657a76.jpg",
+    "static/media/portfolio-6.9d657a76.jpg": "/coffeshop/static/media/portfolio-6.9d657a76.jpg",
+    "static/media/portfolio-7.312377fa.jpg": "/coffeshop/static/media/portfolio-7.312377fa.jpg",
+    "static/media/portfolio-8.51a63ced.jpg": "/coffeshop/static/media/portfolio-8.51a63ced.jpg",
+    "static/media/portfolio-9.2908346c.jpg": "/coffeshop/static/media/portfolio-9.2908346c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fed7a68e.js",
+    "static/css/2.b2294130.chunk.css",
+    "static/js/2.43ca3f4f.chunk.js",
+    "static/css/main.be14dee9.chunk.css",
+    "static/js/main.9e97e06b.chunk.js"
+  ]
+}
